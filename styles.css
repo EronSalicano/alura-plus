@@ -69,3 +69,12 @@ border: solid 2px var(--branco-principal);
 
     margin: 0 6em;
 }
+
+.secundario__imagem{
+
+width: 80%;
+}
+.secundario{
+    align-items: center;
+    margin: 0 10em;
+}
